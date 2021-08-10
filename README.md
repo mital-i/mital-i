@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mital-i
-- 👀 I’m interested in 
+- 👀 I’m interested in competitive programming, competitive mathematics, and knitting :))
 - 🌱 I’m currently learning python, react, and website development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Email: mitaliactive@gmail.com
