@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mital-i
+- 👋 Hi, my name is Mitali Mittal 
 - 👀 I’m interested in competitive programming, competitive mathematics, and knitting :))
 - 🌱 I’m currently learning python, react, and website development
 - Email: mitaliactive@gmail.com
