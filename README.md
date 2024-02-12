@@ -3,4 +3,4 @@
 - 👋 Hi, my name is Mitali Mittal 
 - 👀 I’m interested in competitive programming, competitive mathematics, and crocheting :))
 - 🌱 I’m currently learning **python, react, and website development**
-- Email: [mitaliactive@gmail.com](mitaliactive@gmail.com)
+- Email: [mitalim@uci.edu](mitalim@uci.edu)
